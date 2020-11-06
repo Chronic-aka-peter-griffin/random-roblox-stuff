@@ -1,1 +1,1 @@
-settings().Network.IncommingReplicationLag = 10
+settings().Network.IncomingReplicationLag = 10
